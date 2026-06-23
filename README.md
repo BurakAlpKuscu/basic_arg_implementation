@@ -128,7 +128,7 @@ ollama pull qwen3:4b
 ### 3. Run pipeline
 
 ```bash
-python rag_pipeline.py
+python rag_vol2.py
 ```
 
 ## 🧠 Summary
